@@ -1,4 +1,4 @@
-# Chatbot Agent with MCP
+# Agent Handler Chat Demo
 
 This repo provides three ready-to-run examples:
 
@@ -10,8 +10,8 @@ This repo provides three ready-to-run examples:
 
 ```bash
 # Clone repo
-git clone https://github.com/your-org/chatbot-agent-repo.git
-cd chatbot-agent-repo
+git clone https://github.com/merge-api/agent-handler-chat-demo.git
+cd agent-handler-chat-demo
 
 # Install dependencies
 pip install -r requirements.txt
@@ -34,7 +34,7 @@ python mcp_client.py
 ## 📁 Project Structure
 
 ```
-chatbot-agent-repo/
+agent-handler-chat-demo/
 ├── README.md
 ├── requirements.txt
 ├── chatbot.py
